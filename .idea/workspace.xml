@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36f3e43a-838e-4b4b-9a65-37a483f2d78e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +57,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597071920895</updated>
-      <workItem from="1597071922771" duration="4159000" />
+      <workItem from="1597071922771" duration="5201000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2193" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109631125">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="2193" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027/1680.23.2560.1417@1680.23.2560.1417" timestamp="1597109631125" />
+    <state x="1785" y="123" width="1309" height="1217" key="dock-window-1" timestamp="1597109642485">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1785" y="123" width="1309" height="1217" key="dock-window-1/0.23.1680.1027/1680.23.2560.1417@1680.23.2560.1417" timestamp="1597109642485" />
   </component>
 </project>
