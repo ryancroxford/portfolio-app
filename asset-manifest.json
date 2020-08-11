@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio-app/static/js/main.b27809ff.chunk.js",
-    "main.js.map": "/portfolio-app/static/js/main.b27809ff.chunk.js.map",
-    "runtime-main.js": "/portfolio-app/static/js/runtime-main.34a8331a.js",
-    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.34a8331a.js.map",
-    "static/js/2.c00a4803.chunk.js": "/portfolio-app/static/js/2.c00a4803.chunk.js",
-    "static/js/2.c00a4803.chunk.js.map": "/portfolio-app/static/js/2.c00a4803.chunk.js.map",
-    "index.html": "/portfolio-app/index.html",
-    "precache-manifest.73cdc2ecbcd1f506b7e362b5d92ab648.js": "/portfolio-app/precache-manifest.73cdc2ecbcd1f506b7e362b5d92ab648.js",
-    "service-worker.js": "/portfolio-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c00a4803.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.c00a4803.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/www.ryancroxford.com/static/css/main.5f361e03.chunk.css",
+    "main.js": "/www.ryancroxford.com/static/js/main.171eefe1.chunk.js",
+    "main.js.map": "/www.ryancroxford.com/static/js/main.171eefe1.chunk.js.map",
+    "runtime-main.js": "/www.ryancroxford.com/static/js/runtime-main.704359f1.js",
+    "runtime-main.js.map": "/www.ryancroxford.com/static/js/runtime-main.704359f1.js.map",
+    "static/js/2.c00a4803.chunk.js": "/www.ryancroxford.com/static/js/2.c00a4803.chunk.js",
+    "static/js/2.c00a4803.chunk.js.map": "/www.ryancroxford.com/static/js/2.c00a4803.chunk.js.map",
+    "index.html": "/www.ryancroxford.com/index.html",
+    "precache-manifest.c47b4b9637a522af0e604df2d1f50d12.js": "/www.ryancroxford.com/precache-manifest.c47b4b9637a522af0e604df2d1f50d12.js",
+    "service-worker.js": "/www.ryancroxford.com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/www.ryancroxford.com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c00a4803.chunk.js.LICENSE.txt": "/www.ryancroxford.com/static/js/2.c00a4803.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/www.ryancroxford.com/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34a8331a.js",
+    "static/js/runtime-main.704359f1.js",
     "static/js/2.c00a4803.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b27809ff.chunk.js"
+    "static/js/main.171eefe1.chunk.js"
   ]
 }
